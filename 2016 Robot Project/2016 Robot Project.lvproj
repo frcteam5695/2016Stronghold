@@ -113,7 +113,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Motor Controllers" Type="Folder">
 			<Item Name="ControlMotorArm.vi" Type="VI" URL="../Robot Motor Controllers.llb/ControlMotorArm.vi"/>
 			<Item Name="ControlMotorDrive.vi" Type="VI" URL="../Robot Motor Controllers.llb/ControlMotorDrive.vi"/>
-			<Item Name="ControlMotorPivot.vi" Type="VI" URL="../Robot Motor Controllers.llb/ControlMotorPivot.vi"/>
+			<Item Name="ControlMotorPivot.vi" Type="VI" URL="../../../../LabVIEW Data/2016 Robot Project/Robot Motor Controllers.llb/ControlMotorPivot.vi"/>
 			<Item Name="RobotGlobalVariables.vi" Type="VI" URL="../Robot Motor Controllers.llb/RobotGlobalVariables.vi"/>
 		</Item>
 		<Item Name="Support Code" Type="Folder">
@@ -640,7 +640,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
